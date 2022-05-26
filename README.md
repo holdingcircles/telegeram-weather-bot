@@ -1,3 +1,3 @@
 # Telegeram Weather Bot
-A Telegram Weather Bot, displays the weather.
-Get your api from http://openweathermap.org
+A Telegram Weather Bot, it displays the weather.
+/n Get your api from http://openweathermap.org
